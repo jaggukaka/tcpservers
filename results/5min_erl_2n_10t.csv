@@ -1,0 +1,22 @@
+
+Generate Summary Results + 169704 in     3s = 62094.4/s Avg:     1 Min:     0 Max:    61 Err:     0 (0.00%) Active: 243 Started: 243 Finished: 0
+Generate Summary Results + 2108943 in    30s = 70298.1/s Avg:    12 Min:     0 Max: 13300 Err:   179 (0.01%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 2278647 in    33s = 69613.1/s Avg:    12 Min:     0 Max: 13300 Err:   179 (0.01%)
+Generate Summary Results + 2050936 in    30s = 68364.5/s Avg:    14 Min:     0 Max:    71 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 4329583 in    63s = 69016.0/s Avg:    13 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1836999 in    30s = 61233.3/s Avg:    16 Min:     0 Max:    70 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 6166582 in    93s = 66498.2/s Avg:    14 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1703158 in    30s = 56771.9/s Avg:    17 Min:     0 Max:    75 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 7869740 in   123s = 64120.8/s Avg:    14 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1627967 in    30s = 54265.6/s Avg:    18 Min:     0 Max:    81 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 9497707 in   153s = 62185.0/s Avg:    15 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1568625 in    30s = 52287.5/s Avg:    19 Min:     0 Max:    80 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 11066332 in   183s = 60560.1/s Avg:    16 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1505062 in    30s = 50168.7/s Avg:    19 Min:     0 Max:    93 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 12571394 in   213s = 59094.7/s Avg:    16 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1442846 in    30s = 48094.9/s Avg:    20 Min:     0 Max:    89 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 14014240 in   243s = 57735.2/s Avg:    16 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1393234 in    30s = 46441.1/s Avg:    21 Min:     0 Max:   122 Err:     0 (0.00%) Active: 1000 Started: 1000 Finished: 0
+Generate Summary Results = 15407474 in   273s = 56492.9/s Avg:    17 Min:     0 Max: 13300 Err:   179 (0.00%)
+Generate Summary Results + 1229881 in    28s = 44564.1/s Avg:    22 Min:     0 Max:   244 Err:     0 (0.00%) Active: 0 Started: 1000 Finished: 1000
+Generate Summary Results = 16637355 in   300s = 55396.7/s Avg:    17 Min:     0 Max: 13300 Err:   179 (0.00%)

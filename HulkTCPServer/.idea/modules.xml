@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HulkTCPServer.iml" filepath="$PROJECT_DIR$/HulkTCPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HulkTCPServer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/HulkTCPServer-build.iml" />
+    </modules>
+  </component>
+</project>
+

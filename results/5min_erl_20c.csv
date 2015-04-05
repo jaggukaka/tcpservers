@@ -1,0 +1,25 @@
+erl -smp +S 4:4 +SP 100:50 +A 32 +K true
+Erlang/OTP 17 [erts-6.3] [source-f9282c6] [64-bit] [smp:4:2] [async-threads:32] [hipe] [kernel-poll:true]
+
+
+Generate Summary Results + 1520198 in    22s = 68952.6/s Avg:     0 Min:     0 Max:     6 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results + 2057861 in    30s = 68595.4/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 3578059 in    52s = 68746.7/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%)
+Generate Summary Results + 1942079 in    30s = 64736.0/s Avg:     0 Min:     0 Max:     3 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 5520138 in    82s = 67280.2/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%)
+Generate Summary Results + 1901038 in    30s = 63367.9/s Avg:     0 Min:     0 Max:     5 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 7421176 in   112s = 66232.7/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%)
+Generate Summary Results + 1855772 in    30s = 61859.1/s Avg:     0 Min:     0 Max:     8 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 9276948 in   142s = 65309.0/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%)
+Generate Summary Results + 1814780 in    30s = 60492.7/s Avg:     0 Min:     0 Max:     4 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 11091728 in   172s = 64469.2/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%)
+Generate Summary Results + 1635704 in    30s = 54523.5/s Avg:     0 Min:     0 Max:     4 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 12727432 in   202s = 62992.4/s Avg:     0 Min:     0 Max:     9 Err:     0 (0.00%)
+Generate Summary Results + 1341612 in    30s = 44720.4/s Avg:     0 Min:     0 Max:    11 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 14069044 in   232s = 60630.1/s Avg:     0 Min:     0 Max:    11 Err:     0 (0.00%)
+Generate Summary Results + 1569904 in    30s = 52330.1/s Avg:     0 Min:     0 Max:    10 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 15638948 in   262s = 59679.9/s Avg:     0 Min:     0 Max:    11 Err:     0 (0.00%)
+Generate Summary Results + 1678047 in    30s = 55934.9/s Avg:     0 Min:     0 Max:     7 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+Generate Summary Results = 17316995 in   292s = 59295.2/s Avg:     0 Min:     0 Max:    11 Err:     0 (0.00%)
+Generate Summary Results + 433175 in   8.2s = 52614.5/s Avg:     0 Min:     0 Max:     4 Err:     0 (0.00%) Active: 0 Started: 20 Finished: 20
+Generate Summary Results = 17750170 in   300s = 59112.1/s Avg:     0 Min:     0 Max:    11 Err:     0 (0.00%)

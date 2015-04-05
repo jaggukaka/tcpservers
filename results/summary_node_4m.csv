@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+nodejs:TCP Sampler,4014063,3,0,202,9.23,0.00%,19513.5,152.45,8.0
+TOTAL,4014063,3,0,202,9.23,0.00%,19513.5,152.45,8.0

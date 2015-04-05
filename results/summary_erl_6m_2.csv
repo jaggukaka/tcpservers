@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+erlang:TCP Sampler,5993342,28,0,305,9.88,0.00%,26115.8,204.03,8.0
+TOTAL,5993342,28,0,305,9.88,0.00%,26115.8,204.03,8.0

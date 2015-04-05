@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+akka:TCP Sampler,2020587,0,0,745,1.64,0.00%,6835.6,46.73,7.0
+TOTAL,2020587,0,0,745,1.64,0.00%,6835.6,46.73,7.0
